@@ -2,3 +2,6 @@ Orignal COntent.
 Adding content on GitHub
 content added by user Two
 content added after file staged
+---------------------------
+
+Content Added by Bug Fix One
