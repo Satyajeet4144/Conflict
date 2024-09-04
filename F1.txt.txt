@@ -1,3 +1,21 @@
-Hello,
+Orignal COntent.
+Adding content on GitHub
+content added by user Two
+content added after file staged
+---------------------------
+
+Content Added by Bug Fix One
+
+Current Time is 7:59
+User 1 Added content
+----------------------------
+We are making Dream11 Team A 
+and players are as
+AA
+BB
+CC
+DD
 
 Need to git practice on daily basis.-
+
+
